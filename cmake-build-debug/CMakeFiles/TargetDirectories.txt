@@ -1,0 +1,3 @@
+C:/Users/nhlay/CLionProjects/CS50_C/cmake-build-debug/CMakeFiles/CS50_C.dir
+C:/Users/nhlay/CLionProjects/CS50_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nhlay/CLionProjects/CS50_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
